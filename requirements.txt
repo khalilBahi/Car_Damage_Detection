@@ -1,0 +1,8 @@
+tensorflow
+numpy
+pillow
+scikit-learn
+matplotlib==3.7.1
+seaborn
+pandas
+pycocotools

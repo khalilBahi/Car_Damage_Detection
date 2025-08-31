@@ -1,0 +1,8 @@
+{
+  "crack": 0,
+  "dent": 1,
+  "glass_shatter": 2,
+  "lamp_broken": 3,
+  "scratch": 4,
+  "tire_flat": 5
+}
